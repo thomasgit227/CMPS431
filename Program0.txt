@@ -1,0 +1,20 @@
+a.	The programs to be run will be small c/c++ programs.  Each time a program does some i/0, do a small delay.
+    i.	Program that prints 50 dots
+    ii.	Program that does a summation of numbers from 1 to 10
+        1.	print sum along the way.
+    iii.	Program that does a factorial of 10
+        1.	print factorial along the way
+    iv.	Program that prints 100 ‘#’s
+    v.	Etc.
+b.	The programs will reside in a directory called /jobs.  You will create this directory, and put the small programs detailed above in to it.  
+c.	The BatchMonitor program will live in a different directory than the jobs directory.  See below.
+    i.	C:\users\batch
+    ii.	C:\users\batch\jobs
+d.	The Batch Monitor program will give the user the following options
+    i.	List jobs
+    ii.	Set jobs directory
+    iii.	Compile and run specific program
+    iv.	Compile and run all jobs in a specific directory.
+    v.	Shutdown
+    vi.	List program options
+    vii.	help
